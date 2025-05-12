@@ -11,7 +11,6 @@ public class Mission01 {
 
             double value = 0.00001;
 
-
             int result = (int)(Math.random() * 6.0) + 5;
 
 
