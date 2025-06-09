@@ -4,6 +4,8 @@ public class Student {
     String name;
 
     public Student() {
+        System.out.println("기본 생성자 호출!");
+
 
     }
 
